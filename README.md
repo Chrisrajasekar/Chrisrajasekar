@@ -10,7 +10,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+## 🛡️ Security Governance & Compliance Alignment
+
+- **[Security-Governance-Compliance-Alignment-Framework](https://github.com/Chrisrajasekar/Security-Governance-Compliance-Alignment-Framework)**
+- **[Operational-Governance Categories Frameworks: NIST CSF, ISO 27001 comtrol doamins & SOC 2 Trust Principles](https://github.com/Chrisrajasekar/Operational-Governance-Categories-Frameworks-NIST-CSF-ISO-27001-SOC-2-Trust-Principles/blob/main/README.md)**
 
 <hr/>
 
