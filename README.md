@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Phishing Email Investigation](https://github.com/Chrisrajasekar/Phishing-Email-Analysis-Lab)**
-- **[Threat Hunting Scenario (Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ## 🛡️📊 Security Governance & Compliance Alignment
 
