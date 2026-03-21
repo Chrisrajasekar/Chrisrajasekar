@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Public Health IT system Support](https://github.com/Chrisrajasekar/Public-Health-IT-Systems-Support-Case-Study-Educational-)**
 
 ## SOC Operations Projects
-- **[Alert Triage · BEC Investigation · Phishing Response · Microsoft 365 Security · Tabletop Exercises](https://github.com/Chrisrajasekar/SOC-Operations-Projects/tree/main)**
+- **[Alert Triage · BEC Investigation · Phishing Response · Microsoft 365 Security · Tabletop Exercises](https://github.com/Chrisrajasekar/SOC-Operations-Projects/edit/main/README1.md))**
   
 ## ⚠️ Vulnerability Management Projects
 
