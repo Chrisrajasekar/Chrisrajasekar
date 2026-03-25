@@ -18,7 +18,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Project Azuki_Threat Hunt](https://github.com/Chrisrajasekar/Port-of-Entry-Azuki-Import-Export-Threat-Hunt)**
 - **[Phishing Email Investigation](https://github.com/Chrisrajasekar/Phishing-Email-Analysis-Lab)**
 - **[Suspicious PowerShell Command Line Investigation (Microsoft Defender for Endpoint)](https://github.com/Chrisrajasekar/Suspicious-PowerShell-Command-Line-Investigation)**
-// - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Enterprise Incident Response Framework](https://github.com/Chrisrajasekar/Enterprise-Incident-Response-Framework)**
 
 ## 🛡️📊 Security Governance & Compliance Alignment
