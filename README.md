@@ -7,7 +7,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## SOC Operations Projects
 - **[Alert Triage · BEC Investigation · Phishing Response · Microsoft 365 Security · Tabletop Exercises](https://github.com/Chrisrajasekar/SOC-Operations-Projects/edit/main/README1.md))**
-- **[Email Threat Analysis](https://github.com/Chrisrajasekar/Email-Threat-Analysis/blob/main/README.md)**
 - **[Phishing Email Analysis](https://github.com/Chrisrajasekar/Phishing-email-analysis-1/blob/main/README.md)**
 - **[Security-Operation-Centre-Framework-for-Critical-Infrastructure](https://github.com/Chrisrajasekar/Security-Operation-Centre-Framework-for-Critical-Infrastructure/blob/main/README.md)**
   
